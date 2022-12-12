@@ -2,9 +2,10 @@
 <hr>
 
 - 🔭 I’m currently persuing undergraduation in *Computer Science*.
-- ⚡ I'm interested in _*Web-Development*_ and _*Competitive Coding*_.
-- ❤️ Learning and Exploring _*New Technologies  and Competitive Coding*_.
+- ⚡ I'm interested in _*Web-Development*_.
+- ❤️ Learning and Exploring _*New Technologies and Competitive Coding*_.
 - 💬 Ask me about _*Science and Technology*_.
+- ⚡ Fun fact *We live in a simulation*
 - 🤝 How to reach me: <a href="mailto:manavcool2000@gmail.com">Email</a><br>
 - ![Visitor Count](https://profile-counter.glitch.me/ManavSharma007/count.svg)
 
@@ -12,16 +13,19 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/manav-sharma-007/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=manavsharma007 style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.twitter.com/_Manavsharma007" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=_Manavsharma007 style="margin-bottom: 5px;" />
 </a>
   
 <a href="https://www.instagram.com/_manavshxrma" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-8a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/instagram-8a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=manavshxrma style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.codechef.com/users/manavsharma007" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manavsharma007" style="margin-bottom: 5px;" />
+  </a>
 </p>
 
 > Tools & Languages:
