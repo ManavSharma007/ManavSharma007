@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manav Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=10B4F7&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hello%F0%9F%91%8B%2C+I'm+Manav+Sharma;a+Coder+from+Delhi%2C+India)](https://git.io/typing-svg)
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavsharma007&label=Profile%20views&color=0e75b6&style=flat" alt="manavsharma007" /> </p>
 
