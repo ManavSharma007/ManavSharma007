@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavsharma007&label=Profile%20views&color=0e75b6&style=flat" alt="manavsharma007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavsharma007" alt="manavsharma007" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_manavsharma007" target="blank"><img src="https://img.shields.io/twitter/follow/_manavsharma007?logo=twitter&style=for-the-badge" alt="_manavsharma007" /></a> </p>
 
 - 🌱 I’m currently learning **About New Technologies and Competitive Coding**
