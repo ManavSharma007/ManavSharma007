@@ -23,9 +23,6 @@
 <a href="https://www.instagram.com/_manavshxrma" target="_blank">
   <img src=https://img.shields.io/badge/instagram-8a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=manavshxrma style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.codechef.com/users/manavsharma007" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manavsharma007" style="margin-bottom: 5px;" />
-  </a>
 </p>
 
 > Tools & Languages:
